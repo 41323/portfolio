@@ -9,7 +9,9 @@ version: 2
 name: 박신영
 title: Portfolio
 email: pj7234@naver.com
+티스토리 블로그: https://1qwe.tistory.com/
 # email_title: Email (Email title override)
+
 
 # Dark Mode (true/false/never)
 darkmode: false
