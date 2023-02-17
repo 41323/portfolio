@@ -54,7 +54,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: OTT_TeamProject
         link: https://github.com/41323/OTT_TeamProject
-        link_text: Link Text
+        link_text: 깃허브 주소
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
@@ -62,10 +62,10 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
+        quote: 
+
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          미니프로젝트 입니다.
   - title: Experience
     layout: list
     content:
