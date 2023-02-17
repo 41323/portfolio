@@ -55,13 +55,6 @@ content:
         title: OTT_TeamProject
         link: https://github.com/41323/OTT_TeamProject
         link_text: 깃허브 주소
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: 
 
         description: | # this will include new lines to allow paragraphs
