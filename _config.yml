@@ -21,7 +21,7 @@ darkmode: false
 # Additional icon links
 additional_links:
 - title: 티스토리 블로그
-  icon: Font Awesome brand icon  티스토리 블로그 (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  icon: Font Awesome brand icon  티스토리 블로그
   url: https://1qwe.tistory.com/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
