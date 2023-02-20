@@ -47,7 +47,18 @@ content:
 
         description: | # this will include new lines to allow paragraphs
           미니프로젝트 입니다.
-  - title: Experience
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Admin_Board
+        link: https://github.com/41323/OTT_TeamProject
+        link_text: 깃허브 주소
+        quote: 
+
+        description: | # this will include new lines to allow paragraphs
+          현재 진행중인 프로젝트로 제가 맡은 스프링부트로 관리자 게시판 관리 시스템입니다.
+      
+- title: Experience
     layout: list
     content:
       - layout: right
@@ -63,8 +74,8 @@ content:
     layout: list
     content:
       - layout: top-right
-        description: | # this will include new lines to allow paragraphs
-        학력
+        description: 학력| # this will include new lines to allow paragraphs
+       >학력
 
 # Footer
 footer_show_references: false
