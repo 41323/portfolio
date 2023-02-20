@@ -36,7 +36,7 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
-    content:
+    1. content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -48,9 +48,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           미니프로젝트 입니다.
           
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+    2. content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed          
